@@ -1,0 +1,3 @@
+"Why are you interested in taking CMSC320?"
+I definetley think that data science is important in almost every industry, and being able to understand data and analyze it 
+is a very important skil to have. 
